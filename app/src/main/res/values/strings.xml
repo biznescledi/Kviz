@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kviz</string>
+    <string name="question_text">Умешеь ли ты готовить?</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+
+</resources>
